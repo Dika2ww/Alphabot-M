@@ -18,7 +18,7 @@ global.APIs = {
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'I6WEqkeTMkfsTpX', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 24
@@ -64,7 +64,7 @@ global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Makassar' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
-global.premium = ['62887435047326'] //premium user
+global.premium = ['6283895445320'] //premium user
 global.owner = ["6283895445320", "62887435047326"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = owner[0] + "@s.whatsapp.net"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
